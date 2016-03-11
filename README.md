@@ -1,4 +1,4 @@
-#  A document listing observation seets for validation
+#  A document listing observation sets for validation
 
 Summary -- In particular for the galaxy input catalogs, a set of observations and their biases and selection
 effects needs to be assembled for use in validating the simulated catalogs.

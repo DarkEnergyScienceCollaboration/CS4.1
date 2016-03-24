@@ -48,3 +48,8 @@ Outstanding issues/questions:
 * file formats (eg. fits or hdf5, does it even matter with python?)
 * are there photometric calibration issues (eg. zero points) to worry about or can the plotting code take care of that easily?
 * SAMs need to turn on extinction/reddening, tune parameters somewhat, and may eventually want to incorporate emission lines
+
+#### Clusters:
+(Katrin)x(Steve, Ian)
+* Need accurrate prediction for mass function over range of cosmology, 5% or better
+** Concerns: how does mass depend on cluster center, overdensity mass definitions in different halo finders

@@ -52,4 +52,17 @@ Outstanding issues/questions:
 #### Clusters:
 (Katrin)x(Steve, Ian)
 * Need accurrate prediction for mass function over range of cosmology, 5% or better
-** Concerns: how does mass depend on cluster center, overdensity mass definitions in different halo finders
+* Specific concerns:
+  * How do cluster masses depend on cluster center finder
+  * Overdensity mass definitions in different halo finders
+  * Hydrodynamics effects?
+* For validation framework: provide mass function measurement tool, mass function fits to check how well catalog reproduces mass function prediction (simulation concerns are mainly about resolution, volume)
+* Correct colors and distribution of galaxy cluster members, including correct redshift distribution
+
+Cluster WG task:
+* Provide data to validate cluster galaxy distribution and color
+
+CS WG task:
+* Develop accurate mass function prediction
+
+

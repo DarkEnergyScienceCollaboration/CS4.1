@@ -65,4 +65,21 @@ Cluster WG task:
 CS WG task:
 * Develop accurate mass function prediction
 
+#### Weak Lensing
+(Simon)x(Will Dawson, Michael Schneider)
+Notes from a side session at the Argonne DESC meeting.
+*******
+Q: What are the most important observables to get right?
+A: 
+1. Shear two point correlations.  In particular, the small angle shear correlation amplitude is important.
+The best definition of an observable is:
+0.5 arcmin to 2 deg shear 2pt correlation amplitude (this will require Gpc scale simulations)
+Henk Hoekstra found that the catalogs need to be quite deep (2 mags deeper than the flux cut in the analysis catalog) otherwise you don't get the shear bias right.
+One could think about inventing a SAM mechanism to help get that right without needing ultra high resolution simulations.
+
+*Compare to DLS.*
+
+2. Number density -- raw number density (the number counts from space).  No dataset specified, but need hubble number counts.
+
+3. Ellipticity distributions are too hard to get right.  They should be close to e.g. *COSMOS*.
 
